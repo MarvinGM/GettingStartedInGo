@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(x)
 
 	//assign value by expression
-	y := 100 + 11
+	y := (100 + 50) / 2
 	fmt.Println(y)
 
 	//assign string value
